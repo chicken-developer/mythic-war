@@ -1,2 +1,2 @@
-# mythic-wars
+# mythic-war
 An indie game project made by chicken-developer
